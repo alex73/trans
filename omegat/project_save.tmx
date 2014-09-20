@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140920T153406Z" creationid="alex" creationdate="20140920T105111Z">
+        <seg>aaaaOmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140920T155047Z" creationid="alex" creationdate="20140920T154133Z">
+        <seg>zzzzOmegaT-{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Second</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121016T130554Z">
+      <tuv lang="BE" changeid="Alex" changedate="20121016T130554Z">
         <seg>asfaazsdfazzzz</seg>
       </tuv>
     </tu>
@@ -16,7 +32,7 @@
       <tuv lang="en">
         <seg>Test phrase</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121016T130521Z">
+      <tuv lang="BE" changeid="Alex" changedate="20121016T130521Z">
         <seg>adfzaaaaaaaaa</seg>
       </tuv>
     </tu>
