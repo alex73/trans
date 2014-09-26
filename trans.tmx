@@ -6,10 +6,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>Saving project...</seg>
+        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T165020Z" creationid="alex" creationdate="20140926T165020Z">
-        <seg>Saving project..3.</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140926T165112Z" creationid="alex" creationdate="20140926T165112Z">
+        <seg>2These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
