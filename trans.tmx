@@ -6,10 +6,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>&amp;Statistics</seg>
+        <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T164955Z" creationid="alex" creationdate="20140926T164955Z">
-        <seg>&amp;Statistic2s</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140926T165020Z" creationid="alex" creationdate="20140926T165020Z">
+        <seg>Saving project..3.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
