@@ -6,34 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>OmegaT-{0}</seg>
+        <seg>&amp;Cancel</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140920T153406Z" creationid="alex" creationdate="20140920T105111Z">
-        <seg>aaaaOmegaT-{0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>OmegaT-{0}_{1}</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140920T155635Z" creationid="alex" creationdate="20140920T154133Z">
-        <seg>-cazzzzOmegaT-{0}_{1}</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140926T161406Z" creationid="alex" creationdate="20140926T161406Z">
+        <seg>z&amp;Cancel</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Second</seg>
+        <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="BE" changeid="Alex" changedate="20121016T130554Z">
-        <seg>asfaazsdfazzzz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Test phrase</seg>
-      </tuv>
-      <tuv lang="BE" changeid="Alex" changedate="20121016T130521Z">
-        <seg>adfzaaaaaaaaa</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140926T162907Z" creationid="alex" creationdate="20140926T162907Z">
+        <seg>z&amp;Close</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
