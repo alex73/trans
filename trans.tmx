@@ -6,10 +6,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T165112Z" creationid="alex" creationdate="20140926T165112Z">
-        <seg>2These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140926T165540Z" creationid="alex" creationdate="20140926T165540Z">
+        <seg>aEmptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
