@@ -6,17 +6,9 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>&amp;Cancel</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T161406Z" creationid="alex" creationdate="20140926T161406Z">
-        <seg>z&amp;Cancel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T162907Z" creationid="alex" creationdate="20140926T162907Z">
+      <tuv lang="BE" changeid="alex" changedate="20140926T163355Z" creationid="alex" creationdate="20140926T163355Z">
         <seg>z&amp;Close</seg>
       </tuv>
     </tu>
