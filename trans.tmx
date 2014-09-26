@@ -20,6 +20,14 @@
         <seg>aEmptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140926T165750Z" creationid="alex" creationdate="20140926T165750Z">
+        <seg>aTotal:</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
