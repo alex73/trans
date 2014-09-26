@@ -30,6 +30,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140926T182021Z" creationid="alex" creationdate="20140926T182021Z">
+        <seg>asfasfLoading TMX files...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140926T183435Z" creationid="alex" creationdate="20140926T183435Z">
+        <seg>aaLoading project...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140926T181900Z" creationid="alex" creationdate="20140926T181900Z">
+        <seg>aOrphan segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total:</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20140926T165750Z" creationid="alex" creationdate="20140926T165750Z">
