@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140926T190552Z" creationid="alex" creationdate="20140926T190552Z">
+        <seg>7Encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20140926T183543Z" creationid="alex" creationdate="20140926T183543Z">
