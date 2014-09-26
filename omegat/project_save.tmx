@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="BE" changeid="alex" changedate="20140926T190051Z" creationid="alex" creationdate="20140926T190051Z">
+        <seg>6Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
       <tuv lang="BE" changeid="alex" changedate="20140926T182021Z" creationid="alex" creationdate="20140926T182021Z">
