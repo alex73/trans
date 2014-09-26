@@ -6,18 +6,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>&amp;Close</seg>
+        <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T164812Z" creationid="alex" creationdate="20140926T164812Z">
-        <seg>z&amp;Close</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&amp;Filter</seg>
-      </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T164813Z" creationid="alex" creationdate="20140926T164813Z">
-        <seg>z&amp;Filter</seg>
+      <tuv lang="BE" changeid="alex" changedate="20140926T164907Z" creationid="alex" creationdate="20140926T164907Z">
+        <seg>tRe&amp;place All</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
