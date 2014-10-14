@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Test phrase</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T070717Z" creationid="alex" creationdate="20141014T070521Z">
+        <seg>aaTest phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20140926T183747Z" creationid="alex" creationdate="20140926T183747Z">
