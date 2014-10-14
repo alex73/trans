@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ru">
+        <seg>Адаменка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121638Z" creationid="alex" creationdate="20141014T121638Z">
+        <seg>Адаменка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
         <seg>Березина</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20141014T113756Z" creationid="alex" creationdate="20141014T113756Z">
