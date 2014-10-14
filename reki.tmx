@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="paragraph" srclang="ru"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ru">
+        <seg>Абрамовщина</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T091312Z" creationid="alex" creationdate="20141014T091312Z">
+        <seg>Абрамаўшчына</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Днепр</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T093535Z" creationid="alex" creationdate="20141014T093535Z">
+        <seg>Дняпро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Оболянка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T093543Z" creationid="alex" creationdate="20141014T093543Z">
+        <seg>Абалянка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Ольшанка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T093550Z" creationid="alex" creationdate="20141014T093550Z">
+        <seg>Альшанка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Птичь</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T093555Z" creationid="alex" creationdate="20141014T093555Z">
+        <seg>Пціч</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
