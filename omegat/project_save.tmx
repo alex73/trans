@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
         <seg>Cannot open the link {0}</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T165712Z" creationid="alex" creationdate="20140926T165712Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T165712Z" creationid="alex" creationdate="20140926T165712Z">
         <seg>aCannot open the link {0}</seg>
       </tuv>
     </tu>
@@ -16,7 +16,7 @@
       <tuv lang="en">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T165540Z" creationid="alex" creationdate="20140926T165540Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T165540Z" creationid="alex" creationdate="20140926T165540Z">
         <seg>aEmptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
     </tu>
@@ -24,7 +24,7 @@
       <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T190552Z" creationid="alex" creationdate="20140926T190552Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T190552Z" creationid="alex" creationdate="20140926T190552Z">
         <seg>7Encoding</seg>
       </tuv>
     </tu>
@@ -32,23 +32,31 @@
       <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T183543Z" creationid="alex" creationdate="20140926T183543Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T183543Z" creationid="alex" creationdate="20140926T183543Z">
         <seg>0Error saving project file!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>External command failed. Exit code {0}: "{1}"</seg>
+        <seg>Exit code {0}: "{1}"</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T181524Z" creationid="alex" creationdate="20140926T180448Z">
-        <seg>aazzsExternal command failed. Exit code {0}: "{1}"</seg>
+      <tuv lang="be" changeid="alex" changedate="20140926T181524Z" creationid="alex" creationdate="20140926T180448Z">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20140926T181524Z" creationid="alex" creationdate="20140926T180448Z">
+        <seg>aazzsExternal command failed.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T190051Z" creationid="alex" creationdate="20140926T190051Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T190051Z" creationid="alex" creationdate="20140926T190051Z">
         <seg>6Filter</seg>
       </tuv>
     </tu>
@@ -56,7 +64,7 @@
       <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T182021Z" creationid="alex" creationdate="20140926T182021Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T182021Z" creationid="alex" creationdate="20140926T182021Z">
         <seg>asfasfLoading TMX files...</seg>
       </tuv>
     </tu>
@@ -64,7 +72,7 @@
       <tuv lang="en">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T183626Z" creationid="alex" creationdate="20140926T183626Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T183626Z" creationid="alex" creationdate="20140926T183626Z">
         <seg>1Loading glossaries</seg>
       </tuv>
     </tu>
@@ -72,7 +80,7 @@
       <tuv lang="en">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T183435Z" creationid="alex" creationdate="20140926T183435Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T183435Z" creationid="alex" creationdate="20140926T183435Z">
         <seg>aaLoading project...</seg>
       </tuv>
     </tu>
@@ -80,15 +88,23 @@
       <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T181900Z" creationid="alex" creationdate="20140926T181900Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T181900Z" creationid="alex" creationdate="20140926T181900Z">
         <seg>aOrphan segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Second</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T070250Z" creationid="alex" creationdate="20141014T070250Z">
+        <seg>aSecond</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T183747Z" creationid="alex" creationdate="20140926T183747Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T183747Z" creationid="alex" creationdate="20140926T183747Z">
         <seg>3These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
     </tu>
@@ -96,7 +112,7 @@
       <tuv lang="en">
         <seg>Total:</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T165750Z" creationid="alex" creationdate="20140926T165750Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T165750Z" creationid="alex" creationdate="20140926T165750Z">
         <seg>aTotal123:</seg>
       </tuv>
     </tu>
@@ -104,7 +120,7 @@
       <tuv lang="en">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T191138Z" creationid="alex" creationdate="20140926T191138Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T191138Z" creationid="alex" creationdate="20140926T191138Z">
         <seg>8Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
     </tu>
@@ -112,7 +128,7 @@
       <tuv lang="en">
         <seg>User's Manual</seg>
       </tuv>
-      <tuv lang="BE" changeid="alex" changedate="20140926T185628Z" creationid="alex" creationdate="20140926T185628Z">
+      <tuv lang="be" changeid="alex" changedate="20140926T185628Z" creationid="alex" creationdate="20140926T185628Z">
         <seg>5User's Manual</seg>
       </tuv>
     </tu>
