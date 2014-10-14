@@ -22,10 +22,170 @@
     </tu>
     <tu>
       <tuv lang="ru">
+        <seg>Адров</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121738Z" creationid="alex" creationdate="20141014T121738Z">
+        <seg>Адроў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Аута</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121746Z" creationid="alex" creationdate="20141014T121746Z">
+        <seg>Авута</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Байна</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121750Z" creationid="alex" creationdate="20141014T121750Z">
+        <seg>Байна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Балазна</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121756Z" creationid="alex" creationdate="20141014T121756Z">
+        <seg>Балазна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Барагинка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121802Z" creationid="alex" creationdate="20141014T121802Z">
+        <seg>Барагінка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Басинка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121806Z" creationid="alex" creationdate="20141014T121806Z">
+        <seg>Басінка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Бася</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121813Z" creationid="alex" creationdate="20141014T121813Z">
+        <seg>Бася</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Бедрица</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121825Z" creationid="alex" creationdate="20141014T121825Z">
+        <seg>Бедрыца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Безунья</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121829Z" creationid="alex" creationdate="20141014T121829Z">
+        <seg>Бязуння</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Белая</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121835Z" creationid="alex" creationdate="20141014T121835Z">
+        <seg>Белая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Белица</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121838Z" creationid="alex" creationdate="20141014T121838Z">
+        <seg>Беліца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Бервенка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121844Z" creationid="alex" creationdate="20141014T121844Z">
+        <seg>Бервенка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
         <seg>Березина</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20141014T113756Z" creationid="alex" creationdate="20141014T113756Z">
         <seg>Бярэзіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Березовка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121900Z" creationid="alex" creationdate="20141014T121900Z">
+        <seg>Беразоўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Береща</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121911Z" creationid="alex" creationdate="20141014T121911Z">
+        <seg>Бярэшча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Берновка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121915Z" creationid="alex" creationdate="20141014T121915Z">
+        <seg>Бярноўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Берёзка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121855Z" creationid="alex" creationdate="20141014T121855Z">
+        <seg>Бярозка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Берёзовка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121904Z" creationid="alex" creationdate="20141014T121904Z">
+        <seg>Бярозаўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Бикложа</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121921Z" creationid="alex" creationdate="20141014T121921Z">
+        <seg>Бікложа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Бобр</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121926Z" creationid="alex" creationdate="20141014T121926Z">
+        <seg>Бобр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Болошинка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121934Z" creationid="alex" creationdate="20141014T121934Z">
+        <seg>Болошинка</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +214,22 @@
     </tu>
     <tu>
       <tuv lang="ru">
+        <seg>Будовесть</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121958Z" creationid="alex" creationdate="20141014T121958Z">
+        <seg>Будавесць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Бузянка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T122003Z" creationid="alex" creationdate="20141014T122003Z">
+        <seg>Бузянка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
         <seg>Гавья</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20141014T113816Z" creationid="alex" creationdate="20141014T113816Z">
@@ -74,6 +250,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20141014T093543Z" creationid="alex" creationdate="20141014T093543Z">
         <seg>Абалянка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Ольса</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T121719Z" creationid="alex" creationdate="20141014T121719Z">
+        <seg>Ольса</seg>
       </tuv>
     </tu>
     <tu>
