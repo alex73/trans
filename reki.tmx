@@ -230,6 +230,30 @@
     </tu>
     <tu>
       <tuv lang="ru">
+        <seg>Быковка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T122009Z" creationid="alex" creationdate="20141014T122009Z">
+        <seg>Быкаўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Ведетица</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T122019Z" creationid="alex" creationdate="20141014T122019Z">
+        <seg>Вядзеціца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Ведровка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T122023Z" creationid="alex" creationdate="20141014T122023Z">
+        <seg>Вядроўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
         <seg>Гавья</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20141014T113816Z" creationid="alex" creationdate="20141014T113816Z">
