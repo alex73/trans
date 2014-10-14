@@ -84,6 +84,14 @@
         <seg>Пціч</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Черничанка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T113954Z" creationid="alex" creationdate="20141014T113954Z">
+        <seg>Чарнічанка</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
