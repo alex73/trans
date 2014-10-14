@@ -14,6 +14,46 @@
     </tu>
     <tu>
       <tuv lang="ru">
+        <seg>Березина</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T113756Z" creationid="alex" creationdate="20141014T113756Z">
+        <seg>Бярэзіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Большая Лебедка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T113656Z" creationid="alex" creationdate="20141014T113656Z">
+        <seg>Вялікая Лябёдка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Боровка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T113703Z" creationid="alex" creationdate="20141014T113703Z">
+        <seg>Бароўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Брыжовка</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T113721Z" creationid="alex" creationdate="20141014T113721Z">
+        <seg>Брыжоўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
+        <seg>Гавья</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20141014T113816Z" creationid="alex" creationdate="20141014T113816Z">
+        <seg>Гаўя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ru">
         <seg>Днепр</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20141014T093535Z" creationid="alex" creationdate="20141014T093535Z">
