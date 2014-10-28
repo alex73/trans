@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6_1" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7_1" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>Test phrase</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20141014T071612Z" creationid="alex" creationdate="20141014T070521Z">
-        <seg>aaaaTest phrase</seg>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141028T034501Z" creationid="alex" creationdate="20141014T070521Z">
+        <seg>aaaaaTest phrase</seg>
       </tuv>
     </tu>
     <tu>
