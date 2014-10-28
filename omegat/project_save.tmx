@@ -6,10 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Second</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141028T041642Z" creationid="Aleś Bułojčyk" creationdate="20141028T041642Z">
+        <seg>56465</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Test phrase</seg>
       </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141028T041543Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
-        <seg>444</seg>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141028T041634Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
+        <seg>5555</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
