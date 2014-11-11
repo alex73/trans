@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>source1</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141111T053815Z" creationid="Aleś Bułojčyk" creationdate="20141111T053800Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source3</seg>
       </tuv>
       <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141111T053812Z" creationid="Aleś Bułojčyk" creationdate="20141111T053800Z">
