@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source3</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T043005Z" creationid="Aleś Bułojčyk" creationdate="20141112T042913Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source4</seg>
       </tuv>
       <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T043000Z" creationid="Aleś Bułojčyk" creationdate="20141112T042912Z">
