@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="paragraph" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>source1/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T063727Z" creationid="Aleś Bułojčyk" creationdate="20141112T061719Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source1/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T063730Z" creationid="Aleś Bułojčyk" creationdate="20141112T061728Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source1/2</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T063734Z" creationid="Aleś Bułojčyk" creationdate="20141112T061747Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source2/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T063738Z" creationid="Aleś Bułojčyk" creationdate="20141112T061719Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source2/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T063743Z" creationid="Aleś Bułojčyk" creationdate="20141112T061726Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source2/2</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141112T063747Z" creationid="Aleś Bułojčyk" creationdate="20141112T061746Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
   </body>
 </tmx>
