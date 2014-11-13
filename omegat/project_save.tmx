@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="paragraph" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>source1/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033656Z" creationid="Aleś Bułojčyk" creationdate="20141113T033554Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source1/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033701Z" creationid="Aleś Bułojčyk" creationdate="20141113T033603Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source1/2</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033712Z" creationid="Aleś Bułojčyk" creationdate="20141113T033623Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source1/3</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033719Z" creationid="Aleś Bułojčyk" creationdate="20141113T033645Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source2/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033713Z" creationid="Aleś Bułojčyk" creationdate="20141113T033600Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source2/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033720Z" creationid="Aleś Bułojčyk" creationdate="20141113T033625Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source2/2</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033728Z" creationid="Aleś Bułojčyk" creationdate="20141113T033644Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source2/3</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T033743Z" creationid="Aleś Bułojčyk" creationdate="20141113T033700Z">
-        <seg>2147483647</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
   </body>
 </tmx>
