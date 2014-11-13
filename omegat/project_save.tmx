@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="paragraph" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>source1/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T032306Z" creationid="Aleś Bułojčyk" creationdate="20141113T032306Z">
-        <seg>1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source1/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T032319Z" creationid="Aleś Bułojčyk" creationdate="20141113T032319Z">
-        <seg>2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source3/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T032330Z" creationid="Aleś Bułojčyk" creationdate="20141113T032330Z">
-        <seg>1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>source3/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T032341Z" creationid="Aleś Bułojčyk" creationdate="20141113T032341Z">
-        <seg>2</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
   </body>
 </tmx>
