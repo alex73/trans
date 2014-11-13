@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>source2/0</seg>
       </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T053247Z" creationid="Aleś Bułojčyk" creationdate="20141113T053155Z">
-        <seg>5</seg>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T053323Z" creationid="Aleś Bułojčyk" creationdate="20141113T053155Z">
+        <seg>7</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T053303Z" creationid="Aleś Bułojčyk" creationdate="20141113T053303Z">
         <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>source2/4</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141113T053333Z" creationid="Aleś Bułojčyk" creationdate="20141113T053333Z">
+        <seg>8</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
