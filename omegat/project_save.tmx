@@ -8,16 +8,16 @@
       <tuv lang="en">
         <seg>concurrent</seg>
       </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T063638Z" creationid="Aleś Bułojčyk" creationdate="20141114T063626Z">
-        <seg>2</seg>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T063704Z" creationid="Aleś Bułojčyk" creationdate="20141114T063626Z">
+        <seg>4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>s1/0</seg>
       </tuv>
-      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T063647Z" creationid="Aleś Bułojčyk" creationdate="20141114T063627Z">
-        <seg>3</seg>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T063706Z" creationid="Aleś Bułojčyk" creationdate="20141114T063627Z">
+        <seg>5</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +34,14 @@
       </tuv>
       <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T063658Z" creationid="Aleś Bułojčyk" creationdate="20141114T063658Z">
         <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>s1/3</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T063710Z" creationid="Aleś Bułojčyk" creationdate="20141114T063710Z">
+        <seg>6</seg>
       </tuv>
     </tu>
     <tu>
