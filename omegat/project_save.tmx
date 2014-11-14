@@ -36,6 +36,14 @@
         <seg>1</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>s3/1</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T063210Z" creationid="Aleś Bułojčyk" creationdate="20141114T063210Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
