@@ -28,6 +28,14 @@
         <seg>1</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>s2/1</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141114T060240Z" creationid="Aleś Bułojčyk" creationdate="20141114T060240Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
