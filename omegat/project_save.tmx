@@ -30,6 +30,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>s2/0</seg>
+      </tuv>
+      <tuv lang="be" changeid="s2" changedate="20141117T054100Z" creationid="s2" creationdate="20141117T054037Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>s2/1</seg>
+      </tuv>
+      <tuv lang="be" changeid="s2" changedate="20141117T054043Z" creationid="s2" creationdate="20141117T054043Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>s2/2</seg>
+      </tuv>
+      <tuv lang="be" changeid="s2" changedate="20141117T054125Z" creationid="s2" creationdate="20141117T054125Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>s3/0</seg>
       </tuv>
       <tuv lang="be" changeid="s3" changedate="20141117T054104Z" creationid="s3" creationdate="20141117T054037Z">
