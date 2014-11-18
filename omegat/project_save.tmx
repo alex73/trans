@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>s2/0</seg>
+      </tuv>
+      <tuv lang="be" changeid="s2" changedate="20141118T043308Z" creationid="s2" creationdate="20141118T043308Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>s2/1</seg>
+      </tuv>
+      <tuv lang="be" changeid="s2" changedate="20141118T043316Z" creationid="s2" creationdate="20141118T043316Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>s3/0</seg>
       </tuv>
       <tuv lang="be" changeid="s3" changedate="20141118T043310Z" creationid="s3" creationdate="20141118T043310Z">
