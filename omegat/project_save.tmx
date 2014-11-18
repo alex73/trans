@@ -80,16 +80,16 @@
       <tuv lang="en">
         <seg>s3/0</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141118T085155Z" creationid="s3" creationdate="20141118T052150Z">
-        <seg>719</seg>
+      <tuv lang="be" changeid="s3" changedate="20141118T085251Z" creationid="s3" creationdate="20141118T052150Z">
+        <seg>723</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>s3/1</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141118T085108Z" creationid="s3" creationdate="20141118T052202Z">
-        <seg>716</seg>
+      <tuv lang="be" changeid="s3" changedate="20141118T085242Z" creationid="s3" creationdate="20141118T052202Z">
+        <seg>722</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>s3/3</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141118T085044Z" creationid="s3" creationdate="20141118T052315Z">
-        <seg>714</seg>
+      <tuv lang="be" changeid="s3" changedate="20141118T085218Z" creationid="s3" creationdate="20141118T052315Z">
+        <seg>720</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
