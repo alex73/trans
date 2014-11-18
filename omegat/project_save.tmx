@@ -80,32 +80,32 @@
       <tuv lang="en">
         <seg>s3/0</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141118T091958Z" creationid="s3" creationdate="20141118T052150Z">
-        <seg>823</seg>
+      <tuv lang="be" changeid="s3" changedate="20141118T092132Z" creationid="s3" creationdate="20141118T052150Z">
+        <seg>829</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>s3/1</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141118T091837Z" creationid="s3" creationdate="20141118T052202Z">
-        <seg>818</seg>
+      <tuv lang="be" changeid="s3" changedate="20141118T092148Z" creationid="s3" creationdate="20141118T052202Z">
+        <seg>830</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>s3/2</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141118T091922Z" creationid="s3" creationdate="20141118T052236Z">
-        <seg>820</seg>
+      <tuv lang="be" changeid="s3" changedate="20141118T092046Z" creationid="s3" creationdate="20141118T052236Z">
+        <seg>826</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>s3/3</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141118T091944Z" creationid="s3" creationdate="20141118T052315Z">
-        <seg>822</seg>
+      <tuv lang="be" changeid="s3" changedate="20141118T092116Z" creationid="s3" creationdate="20141118T052315Z">
+        <seg>828</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
