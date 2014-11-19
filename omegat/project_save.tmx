@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>concurrent</seg>
       </tuv>
-      <tuv lang="be" changeid="s2" changedate="20141119T014751Z" creationid="s3" creationdate="20141118T180028Z">
-        <seg>1416361671491</seg>
+      <tuv lang="be" changeid="s3" changedate="20141119T014751Z" creationid="s3" creationdate="20141118T180028Z">
+        <seg>1416361671713</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,16 +80,16 @@
       <tuv lang="en">
         <seg>s3/0</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141119T014619Z" creationid="s3" creationdate="20141118T180029Z">
-        <seg>1983</seg>
+      <tuv lang="be" changeid="s3" changedate="20141119T014802Z" creationid="s3" creationdate="20141118T180029Z">
+        <seg>1989</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>s3/1</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141119T014604Z" creationid="s3" creationdate="20141118T180037Z">
-        <seg>1982</seg>
+      <tuv lang="be" changeid="s3" changedate="20141119T014740Z" creationid="s3" creationdate="20141118T180037Z">
+        <seg>1988</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>s3/3</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141119T014540Z" creationid="s3" creationdate="20141118T180120Z">
-        <seg>1980</seg>
+      <tuv lang="be" changeid="s3" changedate="20141119T014704Z" creationid="s3" creationdate="20141118T180120Z">
+        <seg>1986</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
