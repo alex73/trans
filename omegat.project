@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <omegat>
     <project version="1.0">
-        <source_dir>../reposource</source_dir>
+        <source_dir>__DEFAULT__</source_dir>
         <source_dir_excludes>
             <mask>**/.svn/**</mask>
             <mask>**/CSV/**</mask>
@@ -9,13 +9,13 @@
             <mask>**/desktop.ini</mask>
             <mask>**/Thumbs.db</mask>
         </source_dir_excludes>
-        <target_dir>../repotarget</target_dir>
-        <tm_dir>../repotm</tm_dir>
-        <glossary_dir>../repoglossary</glossary_dir>
-        <glossary_file>../repoglossary/glossary.txt</glossary_file>
-        <dictionary_dir>../repodictionary</dictionary_dir>
-        <source_lang>EN-US</source_lang>
-        <target_lang>BE</target_lang>
+        <target_dir>__DEFAULT__</target_dir>
+        <tm_dir>__DEFAULT__</tm_dir>
+        <glossary_dir>__DEFAULT__</glossary_dir>
+        <glossary_file>__DEFAULT__</glossary_file>
+        <dictionary_dir>__DEFAULT__</dictionary_dir>
+        <source_lang>en</source_lang>
+        <target_lang>be</target_lang>
         <source_tok>org.omegat.tokenizer.DefaultTokenizer</source_tok>
         <target_tok>org.omegat.tokenizer.DefaultTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
