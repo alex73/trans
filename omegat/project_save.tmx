@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Second</seg>
+      </tuv>
+      <tuv lang="be" changeid="s2" changedate="20141219T051213Z" creationid="Aleś Bułojčyk" creationdate="20141028T041642Z">
+        <seg>zz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Test phrase</seg>
+      </tuv>
+      <tuv lang="be" changeid="Aleś Bułojčyk" changedate="20141105T044500Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
+        <seg>888</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
