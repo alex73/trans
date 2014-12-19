@@ -3,23 +3,5 @@
 <tmx version="1.1">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>Second</seg>
-      </tuv>
-      <tuv lang="be" changeid="s2" changedate="20141219T051445Z" creationid="Aleś Bułojčyk" creationdate="20141028T041642Z">
-        <seg>1zz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Test phrase</seg>
-      </tuv>
-      <tuv lang="be" changeid="s2" changedate="20141219T051339Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
-        <seg>777</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
   </body>
 </tmx>
