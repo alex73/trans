@@ -3,31 +3,5 @@
 <tmx version="1.1">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>concurrent</seg>
-      </tuv>
-      <tuv lang="be" changeid="s2" changedate="20141219T053222Z" creationid="s2" creationdate="20141219T053222Z">
-        <seg>1418967142819</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s2/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="s2" changedate="20141219T053233Z" creationid="s2" creationdate="20141219T053233Z">
-        <seg>1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s3/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="s3" changedate="20141219T053243Z" creationid="s3" creationdate="20141219T053243Z">
-        <seg>2</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
   </body>
 </tmx>
