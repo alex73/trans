@@ -6,42 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
-        <seg>concurrent</seg>
+        <seg>Second</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20141219T054759Z" creationid="s1" creationdate="20141219T054618Z">
-        <seg>1418968079356</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s1/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20141219T054800Z" creationid="s1" creationdate="20141219T054629Z">
-        <seg>7</seg>
+      <tuv lang="be" changeid="s2" changedate="20141219T051445Z" creationid="Aleś Bułojčyk" creationdate="20141028T041642Z">
+        <seg>1zz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>s1/1</seg>
+        <seg>Test phrase</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20141219T054818Z" creationid="s1" creationdate="20141219T054648Z">
-        <seg>8</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s1/2</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20141219T054721Z" creationid="s1" creationdate="20141219T054721Z">
-        <seg>4</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s1/3</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20141219T054755Z" creationid="s1" creationdate="20141219T054755Z">
-        <seg>6</seg>
+      <tuv lang="be" changeid="s2" changedate="20141219T051339Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
+        <seg>777</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
