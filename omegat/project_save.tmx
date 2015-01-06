@@ -8,16 +8,16 @@
       <tuv lang="en">
         <seg>Second</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150106T043428Z" creationid="Aleś Bułojčyk" creationdate="20141028T041642Z">
-        <seg>aa1zza</seg>
+      <tuv lang="be" changeid="s1" changedate="20150106T045829Z" creationid="Aleś Bułojčyk" creationdate="20141028T041642Z">
+        <seg>aaa1zzaaaa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Test phrase</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150106T043547Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
-        <seg>aa777aa</seg>
+      <tuv lang="be" changeid="s1" changedate="20150106T043806Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
+        <seg>aaa777aa</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
