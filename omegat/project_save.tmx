@@ -29,5 +29,15 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">1.properties</prop>
+      <prop type="id">K4</prop>
+      <tuv lang="en">
+        <seg>zzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="s1" changedate="20150113T062140Z" creationid="s1" creationdate="20150113T062140Z">
+        <seg>ccccbbb</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
