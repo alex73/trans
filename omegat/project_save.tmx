@@ -8,20 +8,10 @@
       <tuv lang="en">
         <seg>zzz</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T051738Z" creationid="s1" creationdate="20150115T051403Z">
-        <seg>fd</seg>
+      <tuv lang="be" changeid="s1" changedate="20150115T051829Z" creationid="s1" creationdate="20150115T051829Z">
+        <seg>a</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
-    <tu>
-      <prop type="file">1.properties</prop>
-      <prop type="id">K4</prop>
-      <tuv lang="en">
-        <seg>zzz</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T051553Z" creationid="s1" creationdate="20150115T051553Z">
-        <seg>daaad</seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
