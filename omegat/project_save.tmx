@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>zzz</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T050754Z" creationid="s1" creationdate="20150113T061217Z">
-        <seg>3bbb</seg>
+      <tuv lang="be" changeid="s1" changedate="20150115T050917Z" creationid="s1" creationdate="20150113T061217Z">
+        <seg>43bbb</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
@@ -35,8 +35,8 @@
       <tuv lang="en">
         <seg>zzz</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T050744Z" creationid="s1" creationdate="20150113T062140Z">
-        <seg>ccc2cbbb</seg>
+      <tuv lang="be" changeid="s1" changedate="20150115T050924Z" creationid="s1" creationdate="20150113T062140Z">
+        <seg>3ccc2cbbb</seg>
       </tuv>
     </tu>
   </body>
