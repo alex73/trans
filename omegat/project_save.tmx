@@ -3,25 +3,5 @@
 <tmx version="1.1">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>zzz</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T051253Z" creationid="s1" creationdate="20150115T051253Z">
-        <seg>d</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
-    <tu>
-      <prop type="file">1.properties</prop>
-      <prop type="id">K4</prop>
-      <tuv lang="en">
-        <seg>zzz</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T051242Z" creationid="s1" creationdate="20150115T051242Z">
-        <seg>a</seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
