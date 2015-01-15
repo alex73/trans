@@ -3,15 +3,5 @@
 <tmx version="1.1">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>zzz</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T052431Z" creationid="s1" creationdate="20150115T052431Z">
-        <seg>aaa3</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
   </body>
 </tmx>
