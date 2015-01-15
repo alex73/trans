@@ -3,41 +3,5 @@
 <tmx version="1.1">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>Second</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150113T055547Z" creationid="Aleś Bułojčyk" creationdate="20141028T041642Z">
-        <seg>2remasaaasfaaaaaaa1zzaaaaa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Test phrase</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150113T060214Z" creationid="Aleś Bułojčyk" creationdate="20141028T041213Z">
-        <seg>mremaasdfaaaaaaa777aaaa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>zzz</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T050917Z" creationid="s1" creationdate="20150113T061217Z">
-        <seg>43bbb</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
-    <tu>
-      <prop type="file">1.properties</prop>
-      <prop type="id">K4</prop>
-      <tuv lang="en">
-        <seg>zzz</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150115T050924Z" creationid="s1" creationdate="20150113T062140Z">
-        <seg>3ccc2cbbb</seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
