@@ -15,7 +15,7 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">1.properties</prop>
-      <prop type="id">K3</prop>
+      <prop type="id">aK3</prop>
       <tuv lang="en">
         <seg>zzz</seg>
       </tuv>
