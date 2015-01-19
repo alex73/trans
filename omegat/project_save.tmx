@@ -15,11 +15,11 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">1.properties</prop>
-      <prop type="id">aK3</prop>
+      <prop type="id">K3</prop>
       <tuv lang="en">
         <seg>zzz</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20150119T041559Z" creationid="s1" creationdate="20150119T041559Z">
+      <tuv lang="be" changeid="s1" changedate="20150119T042802Z" creationid="s1" creationdate="20150119T042802Z">
         <seg>5alt5111</seg>
       </tuv>
     </tu>
@@ -31,6 +31,16 @@
       </tuv>
       <tuv lang="be" changeid="s1" changedate="20150119T041700Z" creationid="s1" creationdate="20150119T041700Z">
         <seg>5alt41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">1.properties</prop>
+      <prop type="id">aK3</prop>
+      <tuv lang="en">
+        <seg>zzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="s1" changedate="20150119T041559Z" creationid="s1" creationdate="20150119T041559Z">
+        <seg>5alt5111</seg>
       </tuv>
     </tu>
   </body>
