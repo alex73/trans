@@ -15,12 +15,12 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">1.properties</prop>
-      <prop type="id">K5</prop>
+      <prop type="id">K3</prop>
       <tuv lang="en">
         <seg>zzz</seg>
       </tuv>
       <tuv lang="be" changeid="s1" changedate="20150119T041700Z" creationid="s1" creationdate="20150119T041700Z">
-        <seg>5alt41</seg>
+        <seg>5alt41222</seg>
       </tuv>
     </tu>
     <tu>
