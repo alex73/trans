@@ -28,6 +28,14 @@
         <seg>1</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>s3/1</seg>
+      </tuv>
+      <tuv lang="be" changeid="s3" changedate="20160608T045830Z" creationid="s3" creationdate="20160608T045830Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
