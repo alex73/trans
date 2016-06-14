@@ -3,47 +3,5 @@
 <tmx version="1.1">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_dev" segtype="sentence" srclang="en"/>
   <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>concurrent</seg>
-      </tuv>
-      <tuv lang="be" changeid="s2" changedate="20160614T052729Z" creationid="s3" creationdate="20160614T052707Z">
-        <seg>1465882049107</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s1/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="s1" changedate="20160614T052723Z" creationid="s1" creationdate="20160614T052723Z">
-        <seg>2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s2/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="s2" changedate="20160614T052735Z" creationid="s2" creationdate="20160614T052710Z">
-        <seg>3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s3/0</seg>
-      </tuv>
-      <tuv lang="be" changeid="s3" changedate="20160614T052714Z" creationid="s3" creationdate="20160614T052714Z">
-        <seg>1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>s3/1</seg>
-      </tuv>
-      <tuv lang="be" changeid="s3" changedate="20160614T052729Z" creationid="s3" creationdate="20160614T052729Z">
-        <seg>2</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
   </body>
 </tmx>
