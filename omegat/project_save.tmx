@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>concurrent</seg>
       </tuv>
-      <tuv lang="be" changeid="s1" changedate="20160615T151752Z" creationid="s1" creationdate="20160615T145841Z">
-        <seg>1466003872252</seg>
+      <tuv lang="be" changeid="s3" changedate="20160615T151753Z" creationid="s1" creationdate="20160615T145841Z">
+        <seg>1466003873951</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>s3/0</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20160615T151743Z" creationid="s3" creationdate="20160615T145857Z">
-        <seg>77</seg>
+      <tuv lang="be" changeid="s3" changedate="20160615T151757Z" creationid="s3" creationdate="20160615T145857Z">
+        <seg>79</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>s3/3</seg>
       </tuv>
-      <tuv lang="be" changeid="s3" changedate="20160615T151634Z" creationid="s3" creationdate="20160615T150029Z">
-        <seg>72</seg>
+      <tuv lang="be" changeid="s3" changedate="20160615T151748Z" creationid="s3" creationdate="20160615T150029Z">
+        <seg>78</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
