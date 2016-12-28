@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_0_dev" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_1_dev" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Second</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20161228T050216Z" creationid="alex" creationdate="20161228T050216Z">
+        <seg>2Second</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en">
         <seg>concurrent</seg>
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="be" changeid="s3" changedate="20160615T152035Z" creationid="s3" creationdate="20160615T150029Z">
         <seg>90</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>zzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20161228T050210Z" creationid="alex" creationdate="20161228T050210Z">
+        <seg>aaa</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
