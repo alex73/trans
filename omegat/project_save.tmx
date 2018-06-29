@@ -14,10 +14,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Test phrase</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20180629T200410Z" creationid="alex" creationdate="20180629T200410Z">
+        <seg>1Test phrase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>a</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20180629T195717Z" creationid="alex" creationdate="20180629T195717Z">
-        <seg>ooo</seg>
+      <tuv lang="be" changeid="alex" changedate="20180629T200204Z" creationid="alex" creationdate="20180629T195717Z">
+        <seg>333ooo</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,8 +136,8 @@
       <tuv lang="en">
         <seg>zzz</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20161228T051625Z" creationid="alex" creationdate="20161228T050210Z">
-        <seg>ccc</seg>
+      <tuv lang="be" changeid="alex" changedate="20180629T200202Z" creationid="alex" creationdate="20161228T050210Z">
+        <seg>ccc333</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
